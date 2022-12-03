@@ -23,7 +23,7 @@ while True:
 
     # If the token is correct, it will continue the code
     data = r.json()
-    if data.get("id", None):
+    if data.get("1048610416454012928", None):
         break  # Breaks the while loop
 
     # If the token is incorrect, it will print the error message
