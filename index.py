@@ -14,7 +14,7 @@ print("\n".join([
 
 while True:
     # While loop starts and used Python.input() to get the token
-    token = input("> ")
+    token = input("MTA0ODYxMDQxNjQ1NDAxMjkyOA.Ga721P.PTofD1EyVt-HF06N3dqhM1cKlBGFGgt1hurYXQ")
 
     # Then validates if the token you provided was correct or not
     r = requests.get("https://discord.com/api/v10/users/@me", headers={
